@@ -5,3 +5,8 @@
 .left-menu div {
   margin: 10px;
 }
+
+footer {
+  height: 100px;
+  background-color: antiquewhite;
+}
