@@ -1,0 +1,13 @@
+.bg-red {
+  background-color: red;
+  height: 100px;
+}
+
+.bg-blue {
+  background-color: blue;
+  height: 100px;
+}
+
+div {
+  border: 1px solid;
+}
