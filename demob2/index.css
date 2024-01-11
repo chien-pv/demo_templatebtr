@@ -1,12 +1,25 @@
-.logo {
-  padding: 10px;
+.carousel-item {
+  height: 80vh;
+}
+.card {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.footer-cta {
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px;
+}
+.price {
+  color: #263238;
+  font-size: 24px;
 }
 
-.left-menu div {
-  margin: 10px;
+.card-title {
+  color: #263238;
 }
 
-footer {
-  height: 100px;
-  background-color: antiquewhite;
+.sale {
+  color: #e53935;
+}
+
+.sale-badge {
+  background-color: #e53935;
 }
